@@ -1,6 +1,6 @@
 # Weather API Client
 
-A lightweight Python application that fetches weather information from an API.
+A lightweight Python application that fetches weather information from an API
 
 ## Overview
 
