@@ -4,9 +4,9 @@ A lightweight Python application that fetches weather information from an API
 
 ## Overview
 
-Weather API Client demonstrates how a weather application can retrieve forecast data, parse API responses, cache results, and display formatted weather reports.
+Weather API Client demonstrates how a weather application can retrieve forecast data, parse API responses, cache results, and display formatted weather reports
 
-The project is designed with modular architecture and can later be connected to a real weather service such as OpenWeatherMap.
+The project is designed with modular architecture and can later be connected to a real weather service such as OpenWeatherMap
 
 ## Features
 
